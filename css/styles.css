@@ -1,0 +1,53 @@
+body
+{
+    background-color: #f6f4e6;
+}
+.buttonlrs
+{
+    font-size: 15px;
+    padding:15px 20px;
+    position: absolute;
+    left: 40%;
+    bottom: 50%;
+}
+.buttonbrs
+{
+    font-size: 15px;
+    padding:15px 20px;
+    position: absolute;
+    right: 40%;
+    bottom: 50%;
+}
+.heading{
+    
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.l1 
+{
+    padding: 5px 5px;
+}
+.l2
+{
+    padding: 5px 5px;
+}
+.l3
+{
+    padding: 5px 5px;
+}
+.calculateLRS
+{
+    font-size: 15px;
+    padding:10px 20px;
+    position: absolute;
+    bottom: 30%;
+}
+.result
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 'bold';
+
+}
+
